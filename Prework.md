@@ -5,7 +5,7 @@ The purpose of this Prework unit is to get you "warmed up" for the main event, y
 ## Computer Setup 
 ### Xcode and iOS
 
-You should download Xcode 6.1.1 (or later) to your Mac before arriving for class. Preparing ahead will save class time. You should also run Software Update (available from the menu on your Mac) and install any available updates for OS X or Xcode.
+You should download Xcode 8.2 (or later) to your Mac before arriving for class. Preparing ahead will save class time. You should also run Software Update (available from the menu on your Mac) and install any available updates for OS X or Xcode.
 
 ### Programming Languages: Objective C and Swift 
 
